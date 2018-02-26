@@ -1,1 +1,1 @@
-# Vancouver-Crime-Heap-Map
+# Vancouver-Crime-Heat-Map
